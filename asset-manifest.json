@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tachyons-to-css/static/css/main.5f361e03.chunk.css",
+    "main.js": "/tachyons-to-css/static/js/main.3972c51d.chunk.js",
+    "main.js.map": "/tachyons-to-css/static/js/main.3972c51d.chunk.js.map",
+    "runtime-main.js": "/tachyons-to-css/static/js/runtime-main.067152c2.js",
+    "runtime-main.js.map": "/tachyons-to-css/static/js/runtime-main.067152c2.js.map",
+    "static/js/2.9278af96.chunk.js": "/tachyons-to-css/static/js/2.9278af96.chunk.js",
+    "static/js/2.9278af96.chunk.js.map": "/tachyons-to-css/static/js/2.9278af96.chunk.js.map",
+    "index.html": "/tachyons-to-css/index.html",
+    "precache-manifest.3e509e637d200cc824da02bb74ac25c8.js": "/tachyons-to-css/precache-manifest.3e509e637d200cc824da02bb74ac25c8.js",
+    "service-worker.js": "/tachyons-to-css/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/tachyons-to-css/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.9278af96.chunk.js.LICENSE.txt": "/tachyons-to-css/static/js/2.9278af96.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.067152c2.js",
+    "static/js/2.9278af96.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.3972c51d.chunk.js"
+  ]
+}
